@@ -9,14 +9,14 @@ title: Resume
 
 **📚 Bachelor of Chinese Culture, Political Science**  &emsp; *Mar 2014 – Aug 2018*  
 &emsp; *Sogang University, Seoul, South Korea*  
-&emsp; **CGPA 3.6 / 4.3**  <br><br>
+&emsp; **CGPA 3.6 / 4.3**  <br><br><br><br>
   
 ## Projects
 ### 🖥️ Speech recognition and Large Language Model
 &emsp; **Computer Science & Engineering Graduate Assistant** 
 &emsp; *Sep 2024 – Present*  
-&emsp; **Education & Human Development, Texas A&M University, College Station, Texas**  
-&emsp; **Project VICTORY (Funded by a $15M U.S. Department of Education Expansion Grant)**    
+&emsp; **Education & Human Development, Texas A&M University**  
+&emsp; **Project VICTORY (Funded by a $15M U.S. Department of Education)**    
   
 &emsp; - Applied advanced speech recognition and speaker diarization techniques to analyze classroom recordings,  
 &emsp; &ensp; delivering actionable insights to schools in rural areas.  

@@ -13,29 +13,39 @@ title: Resume
 
   
 ## Projects
-### Speech recognition and Large Language Model
-**Computer Science & Engineering Graduate Assistant** &emsp; *Sep 2024 – Present*  
-Education & Human Development, Texas A&M University, College Station, Texas  
-**Project VICTORY (Funded by a $15M U.S. Department of Education Expansion Grant)**  
-- Applied advanced speech recognition and speaker diarization techniques to analyze classroom recordings, delivering actionable insights to schools in rural areas.  
-- Designed and implemented an automated model to categorize class topics, communication modes, and language, utilizing transfer learning with Large Language Models (LLMs) such as LLaMA and GPT, reducing manual effort and improving scalability.  
+### 🖥️ Speech recognition and Large Language Model
+&emsp; **Computer Science & Engineering Graduate Assistant** &emsp; *Sep 2024 – Present*  
+&emsp; **Education & Human Development, Texas A&M University, College Station, Texas**  
+&emsp; **Project VICTORY (Funded by a $15M U.S. Department of Education Expansion Grant)**    
+  
+&emsp; - Applied advanced speech recognition and speaker diarization techniques to analyze classroom recordings,  
+&emsp; &ensp; delivering actionable insights to schools in rural areas.  
+&emsp; - Designed and implemented an automated model to categorize class topics, communication modes, and language,  
+&emsp; &ensp; utilizing transfer learning with Large Language Models (LLMs) such as LLaMA and GPT,  
+&emsp; &ensp; reducing manual effort and improving scalability.  
 
-### Computer Vision Pipeline for Early Detection of Unhealthy Beef Cattle  
-*Oct 2024 – Present*  
-- Developing a computer vision-based pipeline for the early detection of unhealthy individuals in beef cattle.  
-- The pipeline includes animal detection, segmentation, identification, tracking, and activity recognition to monitor cattle and build activity profiles.  
 
-### Enhancing Training Stability in CLIP Models by Combining Current and Previous Loss  
-*Oct 2024 – Dec 2024*  
-- Proposed a combined loss approach that blends current and previous losses using a specified ratio, reducing optimization fluctuations and smoothing the loss trajectory.  
-- Demonstrated consistent performance improvements in retrieval and zero-shot prediction tasks of the CLIP model.  
+### 🖥️ Computer Vision Pipeline for Early Detection of Unhealthy Beef Cattle  
+&emsp; - Developing a computer vision-based pipeline for the early detection of unhealthy individuals in beef cattle.  
+&emsp; - The pipeline includes animal detection, segmentation, identification, tracking, and  
+&emsp; &ensp; uactivity recognition to monitor cattle and build activity profiles.  
 
-### Cotton yield prediction and Visulization
+
+### 🖥️ Enhancing Training Stability in CLIP Models by Combining Current and Previous Loss  
+&emsp; - Proposed a combined loss approach that blends current and previous losses using a specified ratio,  
+&emsp; &ensp; ureducing optimization fluctuations and smoothing the loss trajectory.  
+&emsp; - Demonstrated consistent performance improvements in retrieval and zero-shot prediction tasks of the CLIP model.  
+
+### 🖥️ Cotton yield prediction and Visulization
 **Research Assistant** &emsp; *Feb 2024 – Aug 2024*  
 **Agriculture Smart Data Lab at Texas A&M Institute of Data Science, College Station, Texas**  
-- Developed a Django-based dashboard to analyze cotton field data, integrating interactive visualizations with Folium and Plotly to deliver insights to farmers and agronomists.  
-- Designed and implemented a MySQL database structure, seamlessly integrating it with the dashboard for efficient data management and retrieval.  
-- Predicted plant features and yields using deep learning and clustering techniques (k-Means, DBSCAN) and visualized results with Matplotlib, Seaborn, and raster heatmaps using QGIS and GeoPandas.  
+  
+&emsp; - Developed a Django-based dashboard to analyze cotton field data,  
+&emsp; &ensp; integrating interactive visualizations with Folium and Plotly to deliver insights to farmers and agronomists.  
+&emsp; - Designed and implemented a MySQL database structure, seamlessly integrating it  
+&emsp; &ensp; with the dashboard for efficient data management and retrieval.  
+&emsp; - Predicted plant features and yields using deep learning and clustering techniques (k-Means, DBSCAN) and  
+&emsp; &ensp; visualized results with Matplotlib, Seaborn, and raster heatmaps using QGIS and GeoPandas.  
 
 ## Hackathons & Workshop Presentations  
 ### TAMU Datathon AgriTech Challenge (Cotton Field Detector, 2nd place)  

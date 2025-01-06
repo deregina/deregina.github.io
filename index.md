@@ -12,11 +12,15 @@ title: Resume
 &emsp; **CGPA 3.6 / 4.3**  <br><br><br><br>
   
 ## Projects
-### 🖥️ Speech recognition and Large Language Model
-&emsp; **Computer Science & Engineering Graduate Assistant**  
-&emsp; *Sep 2024 – Present*  
-&emsp; **Education & Human Development, Texas A&M University**  
-&emsp; **Project VICTORY (Funded by a $15M U.S. Department of Education)**    
+### 🖥️  Speech recognition and Large Language Model
+
+> **Computer Science & Engineering Graduate Assistant**  
+> *Sep 2024 – Present*  
+> **Education & Human Development, Texas A&M University**  
+> **Project VICTORY (Funded by a $15M U.S. Department of Education)**    
+
+>> Applied advanced speech recognition and speaker diarization techniques to analyze classroom recordings, delivering actionable insights to schools in rural areas. Designed and implemented an automated model to categorize class topics, communication modes, and language, utilizing transfer learning with Large Language Models (LLMs) such as LLaMA and GPT, reducing manual effort and improving scalability.
+
   
 Applied advanced speech recognition and speaker diarization techniques to analyze classroom recordings,  
 &emsp; &ensp; delivering actionable insights to schools in rural areas.  

@@ -17,7 +17,7 @@ title: Resume
 > **Computer Science & Engineering Graduate Assistant**  
 > *Sep 2024 – Present*  
 > **Education & Human Development, Texas A&M University**  
-> **Project <ins>[VICTORY]</ins>ins>(https://crdlla.tamu.edu/victory/) (Funded by a $15M U.S. Department of Education)**    
+> **Project <ins>[VICTORY](https://crdlla.tamu.edu/victory/)</ins> (Funded by a $15M U.S. Department of Education)**    
 > - Applied advanced speech recognition and speaker diarization techniques to analyze classroom recordings, delivering actionable insights to schools in rural areas.
 > - Designed and implemented an automated model to categorize class topics, communication modes, and language, utilizing transfer learning with Large Language Models (LLMs) such as LLaMA and GPT, reducing manual effort and improving scalability.
 

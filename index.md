@@ -20,7 +20,7 @@ title: Resume
 > **Education & Human Development, Texas A&M University**  
 > **Project VICTORY (Funded by a $15M U.S. Department of Education)**    
 
->> Applied advanced speech recognition and speaker diarization techniques to analyze classroom recordings, delivering actionable insights to schools in rural areas. Designed and implemented an automated model to categorize class topics, communication modes, and language, utilizing transfer learning with Large Language Models (LLMs) such as LLaMA and GPT, reducing manual effort and improving scalability.
+> - Applied advanced speech recognition and speaker diarization techniques to analyze classroom recordings, delivering actionable insights to schools in rural areas. Designed and implemented an automated model to categorize class topics, communication modes, and language, utilizing transfer learning with Large Language Models (LLMs) such as LLaMA and GPT, reducing manual effort and improving scalability.
 
 <br>
 ### 🖥️  Computer Vision Pipeline to Detect Unhealthy Beef Cattle  
@@ -89,16 +89,20 @@ title: Resume
 <br><br>
 ## Skills  
 <h3 style="margin-bottom: 2px;">🌟  Programming Languages & Tools</h3>
-Python, C++, Git, Docker, Azure, AWS  
+&emsp; Python, C++, Git, Docker, Azure, AWS  
 
 <h3 style="margin-bottom: 2px;">🌟  Machine Learning & Data Science  </h3>
-Deep learning (PyTorch, TensorFlow), reinforcement learning, large language models, computer vision, data visualization (QGIS, GeoPandas, Power BI, Tableau, Matplotlib, Seaborn, Folium, Plotly)  
+&emsp; Deep learning (PyTorch, TensorFlow), reinforcement learning,  
+&emsp; large language models, computer vision, data visualization  
+&emsp; (QGIS, GeoPandas, Power BI, Tableau, Matplotlib, Seaborn, Folium, Plotly)  
 
 <h3 style="margin-bottom: 2px;">🌟  Databases & Web Development  </h3>
-RDBMS (MySQL, PostgreSQL, MongoDB), web development (Django)  
+&emsp; RDBMS (MySQL, PostgreSQL, MongoDB), web development (Django)  
 
 <h3 style="margin-bottom: 2px;">🌟  Business Skills  </h3>
-Business analysis, profitability analysis, business valuation, project management, negotiation, drafting and reviewing contracts, creative and analytical thinking  
+&emsp; Business analysis, profitability analysis, business valuation,  
+&emsp; project management, negotiation, drafting and reviewing contracts,  
+&emsp; creative and analytical thinking  
 
 ---
 

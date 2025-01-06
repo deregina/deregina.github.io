@@ -9,8 +9,9 @@ title: Resume
 
 **📚 Bachelor of Chinese Culture, Political Science**  &emsp; &emsp; Mar 2014 – Aug 2018  
 &emsp; *Sogang University, Seoul, South Korea*  
-&emsp; **CGPA 3.6 / 4.3**
+&emsp; **CGPA 3.6 / 4.3**  
 
+##
 ## Projects
 ### Computer Science & Engineering Graduate Assistant  
 **Education & Human Development, Texas A&M University, College Station, Texas**  

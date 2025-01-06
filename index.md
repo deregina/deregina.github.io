@@ -6,7 +6,7 @@ title: Resume
 # <span style="font-size: 1em;"> 📚 Education</span>
 
 **Master of Science in Data Science**  
-*Texas A&M University, College Station, Texas*  
+[*Texas A&M University, College Station, Texas*](https://www.tamu.edu)  
 Aug 2023 – May 2025  
 **CGPA**: 4.0 / 4.0  
 

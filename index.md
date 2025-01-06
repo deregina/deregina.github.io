@@ -42,7 +42,7 @@ title: Resume
 > - Predicted plant features and yields using deep learning and clustering techniques (k-Means, DBSCAN) and visualized results with Matplotlib, Seaborn, and raster heatmaps using QGIS and GeoPandas.  
 
 <br><br>
-## Hackathons & Workshop Presentations  
+<h2 style="color: gray;">Hackathons & Workshop Presentations</h2>
 <h3 style="margin-bottom: 2px;">🏅  TAMU Datathon AgriTech Challenge</h3>
 <h3 style="margin-bottom: 2px;">&emsp; (Cotton Field Detector, 2nd place)</h3>
 &emsp; &nbsp; *Nov 2024*  
@@ -66,26 +66,26 @@ title: Resume
 - Predicted polyester film color using regression models, feature selection, and Principal Component Analysis (PCA) on manufacturing process data, including variables such as process temperature, worker shifts, and processing time.  
 
 <br><br>
-## Scholarships  
+<h2 style="color: gray;">Scholarships</h2>
 - **🎓  Lotte Foundation Full Scholarship** (*Mar 2015 – Dec 2017*)  
 - **🎓  Professor’s Recommendation Scholarship, Sogang University** (*Mar 2015*)  
 
 <br><br>
-## Employment  
+<h2 style="color: gray;">Employment</h2>
 ### 💼  Mergers and Acquisitions Senior Associate  
 > **SKC, Seoul, South Korea (Chemical Manufacturing Company)**  
 > *Jan 2022 – July 2023*  
 > - Successfully executed the sale of SKC’s PET film business unit for $1.2 billion, drafting and reviewing sales and purchase agreements (SPA).
 > - Led due diligence processes and developed detailed financial models to support negotiations.  
 
-<br>
+
 ### 💼  Management Planning Associate  
 > **SKC, Seoul, South Korea (Chemical Manufacturing Company)**  
 > *July 2018 – Dec 2021*
 > - Authored reports on profit analysis and operational issues for SK Group’s senior management, providing key insights for strategic decision-making. 
 > - Reviewed and validated new project investment plans from the business team, ensuring alignment with the company’s strategic goals and financial viability.  
 
-<br>
+
 ### 💼  Education Program Manager (Intern)  
 > **Seoul City Hall, Seoul, South Korea**  
 > *July 2016 – Aug 2016*
@@ -93,7 +93,7 @@ title: Resume
 > - Coordinated a team of volunteers to ensure the successful execution of events.  
 
 <br><br>
-## Skills  
+<h2 style="color: gray;">Skills</h2>
 <h3 style="margin-bottom: 2px;">🌟  Programming Languages & Tools</h3>
 &emsp; &nbsp; Python, C++, Git, Docker, Azure, AWS  
 

@@ -97,7 +97,7 @@ title: Sejeong Moon
 
 <h3 style="margin-bottom: 2px;">🌟  Machine Learning & Data Science  </h3>
 &emsp; &nbsp; Deep learning (PyTorch, TensorFlow), reinforcement learning,  
-&emsp; &nbsp; large language models, computer vision, data visualization (QGIS, 
+&emsp; &nbsp; large language models, computer vision, data visualization (QGIS,  
 &emsp; &nbsp; GeoPandas, Power BI, Tableau, Matplotlib, Seaborn, Folium, Plotly)  
 
 <h3 style="margin-bottom: 2px;">🌟  Databases & Web Development  </h3>

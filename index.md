@@ -95,20 +95,20 @@ title: Resume
 <br><br>
 ## Skills  
 <h3 style="margin-bottom: 2px;">🌟  Programming Languages & Tools</h3>
-&emsp; Python, C++, Git, Docker, Azure, AWS  
+&emsp; &nbsp; Python, C++, Git, Docker, Azure, AWS  
 
 <h3 style="margin-bottom: 2px;">🌟  Machine Learning & Data Science  </h3>
-&emsp; Deep learning (PyTorch, TensorFlow), reinforcement learning,  
-&emsp; large language models, computer vision, data visualization  
-&emsp; (QGIS, GeoPandas, Power BI, Tableau, Matplotlib, Seaborn, Folium, Plotly)  
+&emsp; &nbsp; Deep learning (PyTorch, TensorFlow), reinforcement learning,  
+&emsp; &nbsp; large language models, computer vision, data visualization  
+&emsp; &nbsp; (QGIS, GeoPandas, Power BI, Tableau, Matplotlib, Seaborn, Folium, Plotly)  
 
 <h3 style="margin-bottom: 2px;">🌟  Databases & Web Development  </h3>
-&emsp; RDBMS (MySQL, PostgreSQL, MongoDB), web development (Django)  
+&emsp; &nbsp; RDBMS (MySQL, PostgreSQL, MongoDB), web development (Django)  
 
 <h3 style="margin-bottom: 2px;">🌟  Business Skills  </h3>
-&emsp; Business analysis, profitability analysis, business valuation,  
-&emsp; project management, negotiation, drafting and reviewing contracts,  
-&emsp; creative and analytical thinking  
+&emsp; &nbsp; Business analysis, profitability analysis, business valuation,  
+&emsp; &nbsp; project management, negotiation, drafting and reviewing contracts,  
+&emsp; &nbsp; creative and analytical thinking  
 
 ---
 

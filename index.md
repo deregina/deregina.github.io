@@ -1,5 +1,6 @@
 ---
 layout: default
+css: assets/style.css
 title: Resume
 ---
   

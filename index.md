@@ -44,8 +44,8 @@ title: Sejeong Moon
 </h3>
 <h3 style="margin-bottom: 2px;">&emsp; (Cotton Field Detector, 2nd place)</h3>
 &emsp; &nbsp; *Nov 2024*  
-- Designed a CNN-based tool to identify cotton fields within 24 hours, using multi-spectral satellite imagery and weather data.</li>
-- Achieved 83% accuracy and 76% F1 score.</li>
+- Designed a CNN-based tool to identify cotton fields within 24 hours, using multi-spectral satellite imagery and weather data.
+- Achieved 83% accuracy and 76% F1 score.
 - Presented the poster at the <ins>[TAMU Beef Sustainability Summit 2024](https://livestock-sustainability.com/summit/)</ins>.
 
 <h3 style="margin-bottom: 2px;">

@@ -5,7 +5,7 @@ title: Resume
 
 <br>
 **📚  Master of Science in Data Science** &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; *Aug 2023 – May 2025*  
-&emsp; [*Texas A&M University*](https://tamids.tamu.edu/), College Station, Texas  
+&emsp; *Texas A&M University, College Station, Texas*  
 &emsp; **CGPA 4.0 / 4.0**
 
 **📚  Bachelor of Chinese Culture, Political Science**  &emsp; *Mar 2014 – Aug 2018*  

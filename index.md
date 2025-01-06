@@ -9,7 +9,7 @@ title: Resume
 
 **📚 Bachelor of Chinese Culture, Political Science**  &emsp; *Mar 2014 – Aug 2018*  
 &emsp; *Sogang University, Seoul, South Korea*  
-&emsp; **CGPA 3.6 / 4.3**  <br><br><br><br>
+&emsp; **CGPA 3.6 / 4.3**  <br><br><br>
   
 ## Projects
 ### 🖥️  Speech recognition and Large Language Model
@@ -21,13 +21,6 @@ title: Resume
 
 >> Applied advanced speech recognition and speaker diarization techniques to analyze classroom recordings,
 >> delivering actionable insights to schools in rural areas. Designed and implemented an automated model to categorize class topics, communication modes, and language, utilizing transfer learning with Large Language Models (LLMs) such as LLaMA and GPT, reducing manual effort and improving scalability.
-
-  
-Applied advanced speech recognition and speaker diarization techniques to analyze classroom recordings,  
-&emsp; &ensp; delivering actionable insights to schools in rural areas.  
-&emsp; - Designed and implemented an automated model to categorize class topics, communication modes, and language,  
-&emsp; &ensp; utilizing transfer learning with Large Language Models (LLMs) such as LLaMA and GPT,  
-&emsp; &ensp; reducing manual effort and improving scalability.  
 
 
 ### 🖥️ Computer Vision Pipeline for Early Detection of Unhealthy Beef Cattle  

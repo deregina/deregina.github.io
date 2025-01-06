@@ -9,8 +9,7 @@ title: Resume
 
 **📚 Bachelor of Chinese Culture, Political Science**  &emsp; *Mar 2014 – Aug 2018*  
 &emsp; *Sogang University, Seoul, South Korea*  
-&emsp; **CGPA 3.6 / 4.3**  
-
+&emsp; **CGPA 3.6 / 4.3**  <br><br>
   
 ## Projects
 ### 🖥️ Speech recognition and Large Language Model

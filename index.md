@@ -14,12 +14,10 @@ title: Resume
   
 ## Projects
 ### 🖥️  Analyzing Videos: Speech recognition and LLM
-
 > **Computer Science & Engineering Graduate Assistant**  
 > *Sep 2024 – Present*  
 > **Education & Human Development, Texas A&M University**  
 > **Project VICTORY (Funded by a $15M U.S. Department of Education)**    
-
 > - Applied advanced speech recognition and speaker diarization techniques to analyze classroom recordings, delivering actionable insights to schools in rural areas.
 > - Designed and implemented an automated model to categorize class topics, communication modes, and language, utilizing transfer learning with Large Language Models (LLMs) such as LLaMA and GPT, reducing manual effort and improving scalability.
 
@@ -77,19 +75,22 @@ title: Resume
 ### 💼  Mergers and Acquisitions Senior Associate  
 > **SKC, Seoul, South Korea (Chemical Manufacturing Company)**  
 > *Jan 2022 – July 2023*  
->> Successfully executed the sale of SKC’s PET film business unit for $1.2 billion, drafting and reviewing sales and purchase agreements (SPA). Led due diligence processes and developed detailed financial models to support negotiations.  
+> - Successfully executed the sale of SKC’s PET film business unit for $1.2 billion, drafting and reviewing sales and purchase agreements (SPA).
+> - Led due diligence processes and developed detailed financial models to support negotiations.  
 
 <br>
 ### 💼  Management Planning Associate  
 > **SKC, Seoul, South Korea (Chemical Manufacturing Company)**  
 > *July 2018 – Dec 2021*
->> Authored reports on profit analysis and operational issues for SK Group’s senior management, providing key insights for strategic decision-making. Reviewed and validated new project investment plans from the business team, ensuring alignment with the company’s strategic goals and financial viability.  
+> - Authored reports on profit analysis and operational issues for SK Group’s senior management, providing key insights for strategic decision-making. 
+> - Reviewed and validated new project investment plans from the business team, ensuring alignment with the company’s strategic goals and financial viability.  
 
 <br>
 ### 💼  Education Program Manager (Intern)  
 > **Seoul City Hall, Seoul, South Korea**  
 > *July 2016 – Aug 2016*
->> Organized and managed public education programs for children at Seoul City Han River Cultural Center. Coordinated a team of volunteers to ensure the successful execution of events.  
+> - Organized and managed public education programs for children at Seoul City Han River Cultural Center. 
+> - Coordinated a team of volunteers to ensure the successful execution of events.  
 
 <br><br>
 ## Skills  

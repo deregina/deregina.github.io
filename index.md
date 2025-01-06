@@ -31,7 +31,7 @@ title: Resume
 >> Proposed a combined loss approach that blends current and previous losses using a specified ratio, reducing optimization fluctuations and smoothing the loss trajectory. Demonstrated consistent performance improvements in retrieval and zero-shot prediction tasks of the CLIP model.  
 
 ### 🖥️ Cotton yield prediction and Visulization
-> **Research Assistant**
+> **Research Assistant**  
 > *Feb 2024 – Aug 2024*  
 > **Agriculture Smart Data Lab at Texas A&M Institute of Data Science**  
   
@@ -39,14 +39,14 @@ title: Resume
 
 <br><br>
 ## Hackathons & Workshop Presentations  
-<h3 style="margin-bottom: 0.1;">🏅  TAMU Datathon AgriTech Challenge</h3>
-<h3 style="margin-bottom: 0.1;">&emsp; (Cotton Field Detector, 2nd place)</h3>
+<h3 style="margin-bottom: 1px;">🏅  TAMU Datathon AgriTech Challenge</h3>
+<h3 style="margin-bottom: 1px;">&emsp; (Cotton Field Detector, 2nd place)</h3>
 &emsp; *Nov 2024*  
 - Designed a CNN-based tool to identify cotton fields within 24 hours, using multi-spectral satellite imagery and weather data.  
 - Achieved 83% accuracy and 76% F1 score.  
 - Presented the poster at the TAMU Beef Sustainability Summit 2024.  
 
-<h3 style="margin-bottom: 0.1;">🏅  TMLCAS Corn Yield Prediction Challenge (4th place)</h3>
+<h3 style="margin-bottom: 0.1;">🏅  MLCAS Corn Yield Prediction Challenge (4th place)</h3>
 &emsp; *Aug 2024*
 - Predicted corn yield using a multi-modal CNN model applied to satellite imagery, incorporating vegetation indices calculated from multiple image bands.  
 

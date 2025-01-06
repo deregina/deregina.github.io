@@ -3,20 +3,19 @@ layout: default
 title: Resume
 ---
   
-**📚 Master of Science in Data Science** &emsp; &emsp; &emsp; &emsp; &emsp; Aug 2023 – May 2025  
+**📚 Master of Science in Data Science** &emsp; &emsp; &emsp; &emsp; &emsp; *Aug 2023 – May 2025*  
 &emsp; [*Texas A&M University*](https://tamids.tamu.edu/), College Station, Texas  
 &emsp; **CGPA 4.0 / 4.0**
 
-**📚 Bachelor of Chinese Culture, Political Science**  &emsp; Mar 2014 – Aug 2018  
+**📚 Bachelor of Chinese Culture, Political Science**  &emsp; *Mar 2014 – Aug 2018*  
 &emsp; *Sogang University, Seoul, South Korea*  
 &emsp; **CGPA 3.6 / 4.3**  
 
-##   
+  
 ## Projects
-### Analyzing classroom recordings using speech recognition and large language model (LLM) techniques
-### Computer Science & Engineering Graduate Assistant  
-**Education & Human Development, Texas A&M University, College Station, Texas**  
-*Sep 2024 – Present*  
+### Speech recognition and Large Language Model
+**Computer Science & Engineering Graduate Assistant** &emsp; *Sep 2024 – Present*  
+Education & Human Development, Texas A&M University, College Station, Texas  
 **Project VICTORY (Funded by a $15M U.S. Department of Education Expansion Grant)**  
 - Applied advanced speech recognition and speaker diarization techniques to analyze classroom recordings, delivering actionable insights to schools in rural areas.  
 - Designed and implemented an automated model to categorize class topics, communication modes, and language, utilizing transfer learning with Large Language Models (LLMs) such as LLaMA and GPT, reducing manual effort and improving scalability.  
@@ -31,9 +30,9 @@ title: Resume
 - Proposed a combined loss approach that blends current and previous losses using a specified ratio, reducing optimization fluctuations and smoothing the loss trajectory.  
 - Demonstrated consistent performance improvements in retrieval and zero-shot prediction tasks of the CLIP model.  
 
-### Research Assistant  
+### Cotton yield prediction and Visulization
+**Research Assistant** &emsp; *Feb 2024 – Aug 2024*  
 **Agriculture Smart Data Lab at Texas A&M Institute of Data Science, College Station, Texas**  
-*Feb 2024 – Aug 2024*  
 - Developed a Django-based dashboard to analyze cotton field data, integrating interactive visualizations with Folium and Plotly to deliver insights to farmers and agronomists.  
 - Designed and implemented a MySQL database structure, seamlessly integrating it with the dashboard for efficient data management and retrieval.  
 - Predicted plant features and yields using deep learning and clustering techniques (k-Means, DBSCAN) and visualized results with Matplotlib, Seaborn, and raster heatmaps using QGIS and GeoPandas.  

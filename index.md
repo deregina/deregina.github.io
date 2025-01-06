@@ -71,28 +71,27 @@ title: Resume
 > Successfully executed the sale of SKC’s PET film business unit for $1.2 billion, drafting and reviewing sales and purchase agreements (SPA). Led due diligence processes and developed detailed financial models to support negotiations.  
 
 ### 💼  Management Planning Associate  
-**SKC, Seoul, South Korea (Chemical Manufacturing Company)**  
-*July 2018 – Dec 2021*  
-- Authored reports on profit analysis and operational issues for SK Group’s senior management, providing key insights for strategic decision-making.  
-- Reviewed and validated new project investment plans from the business team, ensuring alignment with the company’s strategic goals and financial viability.  
+> **SKC, Seoul, South Korea (Chemical Manufacturing Company)**  
+> *July 2018 – Dec 2021*
+>> Authored reports on profit analysis and operational issues for SK Group’s senior management, providing key insights for strategic decision-making. Reviewed and validated new project investment plans from the business team, ensuring alignment with the company’s strategic goals and financial viability.  
 
 ### 💼  Education Program Manager (Intern)  
-**Seoul City Hall, Seoul, South Korea**  
-*July 2016 – Aug 2016*  
-- Organized and managed public education programs for children at Seoul City Han River Cultural Center.  
-- Coordinated a team of volunteers to ensure the successful execution of events.  
+> **Seoul City Hall, Seoul, South Korea**  
+> *July 2016 – Aug 2016*
+>> Organized and managed public education programs for children at Seoul City Han River Cultural Center. Coordinated a team of volunteers to ensure the successful execution of events.  
 
+<br><br>
 ## Skills  
-### Programming Languages & Tools  
+<h3 style="margin-bottom: 2px;">Programming Languages & Tools</h3>
 Python, C++, Git, Docker, Azure, AWS  
 
-### Machine Learning & Data Science  
+<h3 style="margin-bottom: 2px;">Machine Learning & Data Science  </h3>
 Deep learning (PyTorch, TensorFlow), reinforcement learning, large language models, computer vision, data visualization (QGIS, GeoPandas, Power BI, Tableau, Matplotlib, Seaborn, Folium, Plotly)  
 
-### Databases & Web Development  
+<h3 style="margin-bottom: 2px;">Databases & Web Development  </h3>
 RDBMS (MySQL, PostgreSQL, MongoDB), web development (Django)  
 
-### Business Skills  
+<h3 style="margin-bottom: 2px;">Business Skills  </h3>
 Business analysis, profitability analysis, business valuation, project management, negotiation, drafting and reviewing contracts, creative and analytical thinking  
 
 ---

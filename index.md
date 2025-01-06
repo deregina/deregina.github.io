@@ -3,11 +3,9 @@ layout: default
 title: Resume
 ---
 
-# <span style="font-size: 1em;"> 📚 Education</span>
-
-**Master of Science in Data Science**  
+**📚 Master of Science in Data Science** <div style="text-align: right"> Aug 2023 – May 2025 </div>
 [*Texas A&M University, College Station, Texas*](https://www.tamu.edu)  
-Aug 2023 – May 2025  
+
 **CGPA**: 4.0 / 4.0  
 
 **Bachelor of Chinese Culture, Bachelor of Political Science**  

@@ -14,7 +14,7 @@ title: Resume
   
 ## Projects
 ### 🖥️ Speech recognition and Large Language Model
-&emsp; **Computer Science & Engineering Graduate Assistant** &emsp; *Sep 2024 – Present*  
+&emsp; **Computer Science & Engineering Graduate Assistant** &emsp; &emsp; *Sep 2024 – Present*  
 &emsp; **Education & Human Development, Texas A&M University, College Station, Texas**  
 &emsp; **Project VICTORY (Funded by a $15M U.S. Department of Education Expansion Grant)**    
   
@@ -37,7 +37,7 @@ title: Resume
 &emsp; - Demonstrated consistent performance improvements in retrieval and zero-shot prediction tasks of the CLIP model.  
 
 ### 🖥️ Cotton yield prediction and Visulization
-**Research Assistant** &emsp; *Feb 2024 – Aug 2024*  
+**Research Assistant** &emsp; &emsp; &emsp; *Feb 2024 – Aug 2024*  
 **Agriculture Smart Data Lab at Texas A&M Institute of Data Science, College Station, Texas**  
   
 &emsp; - Developed a Django-based dashboard to analyze cotton field data,  

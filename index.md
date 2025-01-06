@@ -23,14 +23,14 @@ title: Resume
 >> Applied advanced speech recognition and speaker diarization techniques to analyze classroom recordings, delivering actionable insights to schools in rural areas. Designed and implemented an automated model to categorize class topics, communication modes, and language, utilizing transfer learning with Large Language Models (LLMs) such as LLaMA and GPT, reducing manual effort and improving scalability.
 
 
-### 🖥️ Computer Vision Pipeline to Detect Unhealthy Beef Cattle  
+### 🖥️  Computer Vision Pipeline to Detect Unhealthy Beef Cattle  
 >> Developing a computer vision-based pipeline for the early detection of unhealthy individuals in beef cattle. The pipeline includes animal detection, segmentation, identification, tracking, and activity recognition to monitor cattle and build activity profiles.  
 
 
-### 🖥️ Enhancing Training Stability in CLIP Models
+### 🖥️  Enhancing Training Stability in CLIP Models
 >> Proposed a combined loss approach that blends current and previous losses using a specified ratio, reducing optimization fluctuations and smoothing the loss trajectory. Demonstrated consistent performance improvements in retrieval and zero-shot prediction tasks of the CLIP model.  
 
-### 🖥️ Cotton yield prediction and Visulization
+### 🖥️  Cotton yield prediction and Visulization
 > **Research Assistant**  
 > *Feb 2024 – Aug 2024*  
 > **Agriculture Smart Data Lab at Texas A&M Institute of Data Science**  
@@ -68,7 +68,7 @@ title: Resume
 ### 💼  Mergers and Acquisitions Senior Associate  
 > **SKC, Seoul, South Korea (Chemical Manufacturing Company)**  
 > *Jan 2022 – July 2023*  
-> Successfully executed the sale of SKC’s PET film business unit for $1.2 billion, drafting and reviewing sales and purchase agreements (SPA). Led due diligence processes and developed detailed financial models to support negotiations.  
+>> Successfully executed the sale of SKC’s PET film business unit for $1.2 billion, drafting and reviewing sales and purchase agreements (SPA). Led due diligence processes and developed detailed financial models to support negotiations.  
 
 ### 💼  Management Planning Associate  
 > **SKC, Seoul, South Korea (Chemical Manufacturing Company)**  
@@ -82,16 +82,16 @@ title: Resume
 
 <br><br>
 ## Skills  
-<h3 style="margin-bottom: 2px;">Programming Languages & Tools</h3>
+<h3 style="margin-bottom: 2px;">🌟  Programming Languages & Tools</h3>
 Python, C++, Git, Docker, Azure, AWS  
 
-<h3 style="margin-bottom: 2px;">Machine Learning & Data Science  </h3>
+<h3 style="margin-bottom: 2px;">🌟  Machine Learning & Data Science  </h3>
 Deep learning (PyTorch, TensorFlow), reinforcement learning, large language models, computer vision, data visualization (QGIS, GeoPandas, Power BI, Tableau, Matplotlib, Seaborn, Folium, Plotly)  
 
-<h3 style="margin-bottom: 2px;">Databases & Web Development  </h3>
+<h3 style="margin-bottom: 2px;">🌟  Databases & Web Development  </h3>
 RDBMS (MySQL, PostgreSQL, MongoDB), web development (Django)  
 
-<h3 style="margin-bottom: 2px;">Business Skills  </h3>
+<h3 style="margin-bottom: 2px;">🌟  Business Skills  </h3>
 Business analysis, profitability analysis, business valuation, project management, negotiation, drafting and reviewing contracts, creative and analytical thinking  
 
 ---

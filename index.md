@@ -4,12 +4,12 @@ title: Resume
 ---
   
 **📚 Master of Science in Data Science** &emsp; &emsp; &emsp; &emsp; &emsp; Aug 2023 – May 2025  
-&ensp; [*Texas A&M University*](https://tamids.tamu.edu/), College Station, Texas  
-&ensp; **CGPA 4.0 / 4.0**
+&emsp; [*Texas A&M University*](https://tamids.tamu.edu/), College Station, Texas  
+&emsp; **CGPA 4.0 / 4.0**
 
-**📚 Bachelor of Chinese Culture, Bachelor of Political Science**  &emsp; &emsp; &emsp; &emsp; &emsp; Mar 2014 – Aug 2018  
-*Sogang University, Seoul, South Korea*  
-**CGPA 3.6 / 4.3**
+**📚 Bachelor of Chinese Culture, Political Science**  &emsp; &emsp; Mar 2014 – Aug 2018  
+&emsp; *Sogang University, Seoul, South Korea*  
+&emsp; **CGPA 3.6 / 4.3**
 
 ## Projects
 ### Computer Science & Engineering Graduate Assistant  

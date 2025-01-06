@@ -42,11 +42,9 @@ title: Resume
 <h3 style="margin-bottom: 2px;">🏅  TAMU Datathon AgriTech Challenge</h3>
 <h3 style="margin-bottom: 2px;">&emsp; (Cotton Field Detector, 2nd place)</h3>
 &emsp; &nbsp; *Nov 2024*  
-<ul style="margin-top: 1px; padding-left: 20px;">
-  <li>Designed a CNN-based tool to identify cotton fields within 24 hours, using multi-spectral satellite imagery and weather data.</li>
-  <li>Achieved 83% accuracy and 76% F1 score.</li>
-  <li>Presented the poster at the TAMU Beef Sustainability Summit 2024.</li>
-</ul>
+- Designed a CNN-based tool to identify cotton fields within 24 hours, using multi-spectral satellite imagery and weather data.</li>
+- Achieved 83% accuracy and 76% F1 score.</li>
+- Presented the poster at the TAMU Beef Sustainability Summit 2024.
 
 <h3 style="margin-bottom: 2px;">🏅  MLCAS Corn Yield Prediction Challenge (4th place)</h3>
 &emsp; &nbsp; *Aug 2024*
@@ -67,19 +65,18 @@ title: Resume
 
 <br><br>
 ## Employment  
-### Mergers and Acquisitions Senior Associate  
-**SKC, Seoul, South Korea (Chemical Manufacturing Company)**  
-*Jan 2022 – July 2023*  
-- Successfully executed the sale of SKC’s PET film business unit for $1.2 billion, drafting and reviewing sales and purchase agreements (SPA).  
-- Led due diligence processes and developed detailed financial models to support negotiations.  
+### 💼  Mergers and Acquisitions Senior Associate  
+> **SKC, Seoul, South Korea (Chemical Manufacturing Company)**  
+> *Jan 2022 – July 2023*  
+> Successfully executed the sale of SKC’s PET film business unit for $1.2 billion, drafting and reviewing sales and purchase agreements (SPA). Led due diligence processes and developed detailed financial models to support negotiations.  
 
-### Management Planning Associate  
+### 💼  Management Planning Associate  
 **SKC, Seoul, South Korea (Chemical Manufacturing Company)**  
 *July 2018 – Dec 2021*  
 - Authored reports on profit analysis and operational issues for SK Group’s senior management, providing key insights for strategic decision-making.  
 - Reviewed and validated new project investment plans from the business team, ensuring alignment with the company’s strategic goals and financial viability.  
 
-### Education Program Manager (Intern)  
+### 💼  Education Program Manager (Intern)  
 **Seoul City Hall, Seoul, South Korea**  
 *July 2016 – Aug 2016*  
 - Organized and managed public education programs for children at Seoul City Han River Cultural Center.  

@@ -1,0 +1,10 @@
+title: Sejeong Moon
+logo: "/images/Sejeong_Moon_cropped.jpg?raw=true"
+description: 
+  Pursuing a Master’s degree in Data Science at Texas A&M University, to become a Data Scientist with a robust understanding of business field.
+  <br><br>
+  <a href="https://www.linkedin.com/in/sejeong-moon/">My LinkedIn Profile</a> 
+  
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme

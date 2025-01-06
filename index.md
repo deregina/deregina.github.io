@@ -7,7 +7,7 @@ title: Resume
 &emsp; [*Texas A&M University*](https://tamids.tamu.edu/), College Station, Texas  
 &emsp; **CGPA 4.0 / 4.0**
 
-**📚 Bachelor of Chinese Culture, Political Science**  &emsp; &emsp; Mar 2014 – Aug 2018  
+**📚 Bachelor of Chinese Culture, Political Science**  &emsp; Mar 2014 – Aug 2018  
 &emsp; *Sogang University, Seoul, South Korea*  
 &emsp; **CGPA 3.6 / 4.3**  
 

@@ -11,7 +11,7 @@ title: Resume
 &emsp; *Sogang University, Seoul, South Korea*  
 &emsp; **CGPA 3.6 / 4.3**  
 
-##
+##   
 ## Projects
 ### Computer Science & Engineering Graduate Assistant  
 **Education & Human Development, Texas A&M University, College Station, Texas**  

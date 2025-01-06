@@ -44,11 +44,11 @@ title: Resume
 &emsp; &nbsp; *Nov 2024*  
 - Designed a CNN-based tool to identify cotton fields within 24 hours, using multi-spectral satellite imagery and weather data.</li>
 - Achieved 83% accuracy and 76% F1 score.</li>
-- Presented the poster at the TAMU Beef Sustainability Summit 2024.
+- Presented the poster at the [TAMU Beef Sustainability Summit 2024](https://livestock-sustainability.com/summit/).
 
-<h3 style="margin-bottom: 2px;">🏅  MLCAS Corn Yield Prediction Challenge (4th place)</h3>
+<h3 style="margin-bottom: 2px;">🏅  [MLCAS](https://2024.mlcas.site/) [Corn Yield Prediction Challenge](https://eval.ai/web/challenges/challenge-page/2332/overview) (4th place)</h3>
 &emsp; &nbsp; *Aug 2024*
-- Predicted corn yield using a multi-modal CNN model applied to satellite imagery, incorporating vegetation indices calculated from multiple image bands.  
+- Predicted corn yield using a multi-modal CNN model applied to satellite imagery, incorporating vegetation indices calculated from multiple image bands. ([github](https://github.com/deregina/Agriculture_competition))
 
 <h3 style="margin-bottom: 2px;">🏅  American Airlines Hackathon (2nd place)</h3>
 &emsp; &nbsp; *Feb 2024*  
@@ -68,7 +68,7 @@ title: Resume
 ### 💼  Mergers and Acquisitions Senior Associate  
 > **SKC, Seoul, South Korea (Chemical Manufacturing Company)**  
 > *Jan 2022 – July 2023*  
-> - Successfully executed the sale of SKC’s PET film business unit for $1.2 billion, drafting and reviewing sales and purchase agreements (SPA).
+> - Successfully executed the [sale of SKC’s PET film business unit for $1.2 billion](https://www.koreatimes.co.kr/www/biz/2024/12/602_341083.html), drafting and reviewing sales and purchase agreements (SPA).
 > - Led due diligence processes and developed detailed financial models to support negotiations.  
 
 

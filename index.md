@@ -17,7 +17,7 @@ title: Resume
 > **Computer Science & Engineering Graduate Assistant**  
 > *Sep 2024 – Present*  
 > **Education & Human Development, Texas A&M University**  
-> **Project VICTORY (Funded by a $15M U.S. Department of Education)**    
+> **Project [VICTORY](https://crdlla.tamu.edu/victory/) (Funded by a $15M U.S. Department of Education)**    
 > - Applied advanced speech recognition and speaker diarization techniques to analyze classroom recordings, delivering actionable insights to schools in rural areas.
 > - Designed and implemented an automated model to categorize class topics, communication modes, and language, utilizing transfer learning with Large Language Models (LLMs) such as LLaMA and GPT, reducing manual effort and improving scalability.
 
@@ -33,7 +33,6 @@ title: Resume
 > **Research Assistant**  
 > *Feb 2024 – Aug 2024*  
 > **Agriculture Smart Data Lab at Texas A&M Institute of Data Science**  
-  
 > - Developed a Django-based dashboard to analyze cotton field data, integrating interactive visualizations with Folium and Plotly to deliver insights to farmers and agronomists.
 > - Designed and implemented a MySQL database structure, seamlessly integrating it with the dashboard for efficient data management and retrieval.
 > - Predicted plant features and yields using deep learning and clustering techniques (k-Means, DBSCAN) and visualized results with Matplotlib, Seaborn, and raster heatmaps using QGIS and GeoPandas.  
@@ -93,8 +92,8 @@ title: Resume
 
 <h3 style="margin-bottom: 2px;">🌟  Machine Learning & Data Science  </h3>
 &emsp; &nbsp; Deep learning (PyTorch, TensorFlow), reinforcement learning,  
-&emsp; &nbsp; large language models, computer vision, data visualization  
-&emsp; &nbsp; (QGIS, GeoPandas, Power BI, Tableau, Matplotlib, Seaborn, Folium, Plotly)  
+&emsp; &nbsp; large language models, computer vision, data visualization (QGIS, 
+&emsp; &nbsp; GeoPandas, Power BI, Tableau, Matplotlib, Seaborn, Folium, Plotly)  
 
 <h3 style="margin-bottom: 2px;">🌟  Databases & Web Development  </h3>
 &emsp; &nbsp; RDBMS (MySQL, PostgreSQL, MongoDB), web development (Django)  

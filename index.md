@@ -13,7 +13,7 @@ title: Resume
 &emsp; **CGPA 3.6 / 4.3**  <br><br><br>
   
 ## Projects
-### 🖥️  Analyzing classroom recordings: Speech recognition and LLM
+### 🖥️  Analyzing Videos: Speech recognition and LLM
 
 > **Computer Science & Engineering Graduate Assistant**  
 > *Sep 2024 – Present*  
@@ -23,21 +23,23 @@ title: Resume
 >> Applied advanced speech recognition and speaker diarization techniques to analyze classroom recordings, delivering actionable insights to schools in rural areas. Designed and implemented an automated model to categorize class topics, communication modes, and language, utilizing transfer learning with Large Language Models (LLMs) such as LLaMA and GPT, reducing manual effort and improving scalability.
 
 
-### 🖥️ Computer Vision Pipeline for Early Detection of Unhealthy Beef Cattle  
+### 🖥️ Computer Vision Pipeline to Detect Unhealthy Beef Cattle  
 >> Developing a computer vision-based pipeline for the early detection of unhealthy individuals in beef cattle. The pipeline includes animal detection, segmentation, identification, tracking, and activity recognition to monitor cattle and build activity profiles.  
 
 
-### 🖥️ Enhancing Training Stability in CLIP Models by Combining Current and Previous Loss  
+### 🖥️ Enhancing Training Stability in CLIP Models
 >> Proposed a combined loss approach that blends current and previous losses using a specified ratio, reducing optimization fluctuations and smoothing the loss trajectory. Demonstrated consistent performance improvements in retrieval and zero-shot prediction tasks of the CLIP model.  
 
 ### 🖥️ Cotton yield prediction and Visulization
-> Research Assistant** &emsp; &emsp; &emsp; *Feb 2024 – Aug 2024*  
-> Agriculture Smart Data Lab at Texas A&M Institute of Data Science, College Station, Texas**  
+> **Research Assistant**
+> *Feb 2024 – Aug 2024*  
+> **Agriculture Smart Data Lab at Texas A&M Institute of Data Science**  
   
 >> Developed a Django-based dashboard to analyze cotton field data, integrating interactive visualizations with Folium and Plotly to deliver insights to farmers and agronomists. Designed and implemented a MySQL database structure, seamlessly integrating it with the dashboard for efficient data management and retrieval. Predicted plant features and yields using deep learning and clustering techniques (k-Means, DBSCAN) and visualized results with Matplotlib, Seaborn, and raster heatmaps using QGIS and GeoPandas.  
 
 ## Hackathons & Workshop Presentations  
-### 🏅  TAMU Datathon AgriTech Challenge (Cotton Field Detector, 2nd place)  
+### 🏅  TAMU Datathon AgriTech Challenge  
+(Cotton Field Detector, 2nd place)  
 *Nov 2024*  
 - Designed and implemented a CNN-based tool to identify cotton fields within 24 hours, using multi-spectral satellite imagery and weather data.  
 - Achieved 83% accuracy and 76% F1 score in predicting cotton field presence.  

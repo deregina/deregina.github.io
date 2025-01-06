@@ -1,12 +1,9 @@
 ---
 layout: default
-title: Sejeong Moon's Resume
+title: Resume
 ---
-
-# Sejeong Moon's Resume
-
-## Education  
-**Master of Science in Data Science**  
+ 
+## 📚 Master of Science in Data Science
 *Texas A&M University, College Station, Texas*  
 *Aug 2023 – May 2025*  
 CGPA: 4.0 / 4.0  

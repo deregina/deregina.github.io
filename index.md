@@ -21,17 +21,14 @@ title: Resume
 > - Applied advanced speech recognition and speaker diarization techniques to analyze classroom recordings, delivering actionable insights to schools in rural areas.
 > - Designed and implemented an automated model to categorize class topics, communication modes, and language, utilizing transfer learning with Large Language Models (LLMs) such as LLaMA and GPT, reducing manual effort and improving scalability.
 
-<br>
 ### 🖥️  Computer Vision Pipeline to Detect Unhealthy Beef Cattle  
 > - Developing a computer vision-based pipeline for the early detection of unhealthy individuals in beef cattle. 
 > - The pipeline includes animal detection, segmentation, identification, tracking, and activity recognition to monitor cattle and build activity profiles.  
 
-<br>
 ### 🖥️  Enhancing Training Stability in CLIP Models
 > - Proposed a combined loss approach that blends current and previous losses using a specified ratio, reducing optimization fluctuations and smoothing the loss trajectory. 
 > - Demonstrated consistent performance improvements in retrieval and zero-shot prediction tasks of the CLIP model.  
 
-<br>
 ### 🖥️  Cotton yield prediction and Visulization
 > **Research Assistant**  
 > *Feb 2024 – Aug 2024*  
@@ -50,17 +47,14 @@ title: Resume
 - Achieved 83% accuracy and 76% F1 score.</li>
 - Presented the poster at the TAMU Beef Sustainability Summit 2024.
 
-<br>
 <h3 style="margin-bottom: 2px;">🏅  MLCAS Corn Yield Prediction Challenge (4th place)</h3>
 &emsp; &nbsp; *Aug 2024*
 - Predicted corn yield using a multi-modal CNN model applied to satellite imagery, incorporating vegetation indices calculated from multiple image bands.  
 
-<br>
 <h3 style="margin-bottom: 2px;">🏅  American Airlines Hackathon (2nd place)</h3>
 &emsp; &nbsp; *Feb 2024*  
 - Applied collaborative filtering techniques to predict customer destination preferences by analyzing search and booking histories of users with similar behavior.  
 
-<br>
 <h3 style="margin-bottom: 2px;">🏅  SKC Data Analysis Competition (4th place)</h3>
 &emsp; &nbsp; *Nov 2022*  
 - Predicted polyester film color using regression models, feature selection, and Principal Component Analysis (PCA) on manufacturing process data, including variables such as process temperature, worker shifts, and processing time.  

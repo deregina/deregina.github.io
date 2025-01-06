@@ -40,7 +40,7 @@ title: Resume
 <br><br>
 <h2 style="color: gray;">Hackathons & Workshop Presentations</h2>
 <h3 style="margin-bottom: 2px;">
-    🏅 <a href="https://tamu-datathon.devpost.com/" target="_blank">TAMU Datathon AgriTech Challenge</a>
+    🏅 <a href="https://tamu-datathon.devpost.com/" target="_blank" style="text-decoration: underline;">TAMU Datathon AgriTech Challenge</a>
 </h3>
 <h3 style="margin-bottom: 2px;">&emsp; (Cotton Field Detector, 2nd place)</h3>
 &emsp; &nbsp; *Nov 2024*  

@@ -12,7 +12,7 @@ title: Resume
 &emsp; *Sogang University, Seoul, South Korea*  
 &emsp; **CGPA 3.6 / 4.3**  <br><br><br>
   
-## Projects
+<h2 style="color: gray;">Projects</h2>
 ### 🖥️  Analyzing Videos: Speech recognition and LLM
 > **Computer Science & Engineering Graduate Assistant**  
 > *Sep 2024 – Present*  

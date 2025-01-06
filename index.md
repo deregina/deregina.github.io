@@ -13,7 +13,8 @@ title: Resume
   
 ## Projects
 ### 🖥️ Speech recognition and Large Language Model
-&emsp; **Computer Science & Engineering Graduate Assistant** &emsp; &emsp; *Sep 2024 – Present*  
+&emsp; **Computer Science & Engineering Graduate Assistant** 
+&emsp; *Sep 2024 – Present*  
 &emsp; **Education & Human Development, Texas A&M University, College Station, Texas**  
 &emsp; **Project VICTORY (Funded by a $15M U.S. Department of Education Expansion Grant)**    
   

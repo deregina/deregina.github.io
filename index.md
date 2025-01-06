@@ -43,11 +43,11 @@ title: Resume
 <h3 style="margin-bottom: 0.1;">&emsp; (Cotton Field Detector, 2nd place)</h3>
 &emsp; *Nov 2024*  
 - Designed a CNN-based tool to identify cotton fields within 24 hours, using multi-spectral satellite imagery and weather data.  
-- Achieved 83% accuracy and 76% F1 score in predicting cotton field presence.  
-- Presented the project poster at the TAMU Beef Sustainability Summit 2024.  
+- Achieved 83% accuracy and 76% F1 score.  
+- Presented the poster at the TAMU Beef Sustainability Summit 2024.  
 
-### 🏅  MLCAS Corn Yield Prediction Challenge Using Satellite Data (4th place)  
-*Aug 2024*  
+<h3 style="margin-bottom: 0.1;">🏅  TMLCAS Corn Yield Prediction Challenge (4th place)</h3>
+&emsp; *Aug 2024*
 - Predicted corn yield using a multi-modal CNN model applied to satellite imagery, incorporating vegetation indices calculated from multiple image bands.  
 
 ### 🏅  American Airlines Operations Research and Advanced Analytics Hackathon (2nd place)  

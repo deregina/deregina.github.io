@@ -41,27 +41,31 @@ title: Resume
 ## Hackathons & Workshop Presentations  
 <h3 style="margin-bottom: 2px;">🏅  TAMU Datathon AgriTech Challenge</h3>
 <h3 style="margin-bottom: 2px;">&emsp; (Cotton Field Detector, 2nd place)</h3>
-&emsp; *Nov 2024*  
-- Designed a CNN-based tool to identify cotton fields within 24 hours, using multi-spectral satellite imagery and weather data.  
-- Achieved 83% accuracy and 76% F1 score.  
-- Presented the poster at the TAMU Beef Sustainability Summit 2024.  
+&emsp; &nbsp; *Nov 2024*  
+<ul style="margin-top: 2px; padding-left: 20px;">
+  <li>Designed a CNN-based tool to identify cotton fields within 24 hours, using multi-spectral satellite imagery and weather data.</li>
+  <li>Achieved 83% accuracy and 76% F1 score.</li>
+  <li>Presented the poster at the TAMU Beef Sustainability Summit 2024.</li>
+</ul>
 
 <h3 style="margin-bottom: 2px;">🏅  MLCAS Corn Yield Prediction Challenge (4th place)</h3>
-&emsp; *Aug 2024*
+&emsp; &nbsp; *Aug 2024*
 - Predicted corn yield using a multi-modal CNN model applied to satellite imagery, incorporating vegetation indices calculated from multiple image bands.  
 
 <h3 style="margin-bottom: 2px;">🏅  American Airlines Hackathon (2nd place)</h3>
-&emsp; *Feb 2024*  
+&emsp; &nbsp; *Feb 2024*  
 - Applied collaborative filtering techniques to predict customer destination preferences by analyzing search and booking histories of users with similar behavior.  
 
 <h3 style="margin-bottom: 2px;">🏅  SKC Data Analysis Competition (4th place)</h3>
-&emsp; *Nov 2022*  
+&emsp; &nbsp; *Nov 2022*  
 - Predicted polyester film color using regression models, feature selection, and Principal Component Analysis (PCA) on manufacturing process data, including variables such as process temperature, worker shifts, and processing time.  
 
-### Scholarships  
+<br><br>
+## Scholarships  
 - **🎓  Lotte Foundation Full Scholarship** (*Mar 2015 – Dec 2017*)  
 - **🎓  Professor’s Recommendation Scholarship, Sogang University** (*Mar 2015*)  
 
+<br><br>
 ## Employment  
 ### Mergers and Acquisitions Senior Associate  
 **SKC, Seoul, South Korea (Chemical Manufacturing Company)**  

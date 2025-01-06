@@ -32,7 +32,7 @@ title: Resume
 ### 🖥️  Cotton yield prediction and Visulization
 > **Research Assistant**  
 > *Feb 2024 – Aug 2024*  
-> <ins>**[Agriculture Smart Data Lab](https://tamids.tamu.edu/ag-smart-data-lab/)</ins> at Texas A&M Institute of Data Science**  
+> **<ins>[Agriculture Smart Data Lab](https://tamids.tamu.edu/ag-smart-data-lab/)</ins> at Texas A&M Institute of Data Science**  
 > - Developed a Django-based dashboard to analyze cotton field data, integrating interactive visualizations with Folium and Plotly to deliver insights to farmers and agronomists.
 > - Designed and implemented a MySQL database structure, seamlessly integrating it with the dashboard for efficient data management and retrieval.
 > - Predicted plant features and yields using deep learning and clustering techniques (k-Means, DBSCAN) and visualized results with Matplotlib, Seaborn, and raster heatmaps using QGIS and GeoPandas.  

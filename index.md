@@ -2,16 +2,18 @@
 layout: default
 title: Resume
 ---
- 
-## 📚 Master of Science in Data Science
+
+# <span style="font-size: 1em;"> 📚 Education</span>
+
+**Master of Science in Data Science**  
 *Texas A&M University, College Station, Texas*  
-*Aug 2023 – May 2025*  
-CGPA: 4.0 / 4.0  
+Aug 2023 – May 2025  
+**CGPA**: 4.0 / 4.0  
 
 **Bachelor of Chinese Culture, Bachelor of Political Science**  
 *Sogang University, Seoul, South Korea*  
-*Mar 2014 – Aug 2018*  
-CGPA: 3.6 / 4.3  
+Mar 2014 – Aug 2018  
+**CGPA**: 3.6 / 4.3  
 
 ## Academic Research  
 ### Computer Science & Engineering Graduate Assistant  

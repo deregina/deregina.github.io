@@ -46,16 +46,16 @@ title: Resume
 - Achieved 83% accuracy and 76% F1 score.  
 - Presented the poster at the TAMU Beef Sustainability Summit 2024.  
 
-<h3 style="margin-bottom: 0.1;">🏅  MLCAS Corn Yield Prediction Challenge (4th place)</h3>
+<h3 style="margin-bottom: 2px;">🏅  MLCAS Corn Yield Prediction Challenge (4th place)</h3>
 &emsp; *Aug 2024*
 - Predicted corn yield using a multi-modal CNN model applied to satellite imagery, incorporating vegetation indices calculated from multiple image bands.  
 
-### 🏅  American Airlines Operations Research and Advanced Analytics Hackathon (2nd place)  
-*Feb 2024*  
+<h3 style="margin-bottom: 2px;">🏅  American Airlines Hackathon (2nd place)</h3>
+&emsp; *Feb 2024*  
 - Applied collaborative filtering techniques to predict customer destination preferences by analyzing search and booking histories of users with similar behavior.  
 
-### 🏅  SKC Data Analysis Competition (4th place)  
-*Nov 2022*  
+<h3 style="margin-bottom: 2px;">🏅  SKC Data Analysis Competition (4th place)</h3>
+&emsp; *Nov 2022*  
 - Predicted polyester film color using regression models, feature selection, and Principal Component Analysis (PCA) on manufacturing process data, including variables such as process temperature, worker shifts, and processing time.  
 
 ### Scholarships  

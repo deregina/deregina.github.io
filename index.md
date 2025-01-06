@@ -17,7 +17,7 @@ title: Resume
 > **Computer Science & Engineering Graduate Assistant**  
 > *Sep 2024 – Present*  
 > **Education & Human Development, Texas A&M University**  
-> **Project [VICTORY](https://crdlla.tamu.edu/victory/) (Funded by a $15M U.S. Department of Education)**    
+> **Project <ins>[VICTORY]</ins>ins>(https://crdlla.tamu.edu/victory/) (Funded by a $15M U.S. Department of Education)**    
 > - Applied advanced speech recognition and speaker diarization techniques to analyze classroom recordings, delivering actionable insights to schools in rural areas.
 > - Designed and implemented an automated model to categorize class topics, communication modes, and language, utilizing transfer learning with Large Language Models (LLMs) such as LLaMA and GPT, reducing manual effort and improving scalability.
 
@@ -32,14 +32,14 @@ title: Resume
 ### 🖥️  Cotton yield prediction and Visulization
 > **Research Assistant**  
 > *Feb 2024 – Aug 2024*  
-> **Agriculture Smart Data Lab at Texas A&M Institute of Data Science**  
+> **[Agriculture Smart Data Lab](https://tamids.tamu.edu/ag-smart-data-lab/) at Texas A&M Institute of Data Science**  
 > - Developed a Django-based dashboard to analyze cotton field data, integrating interactive visualizations with Folium and Plotly to deliver insights to farmers and agronomists.
 > - Designed and implemented a MySQL database structure, seamlessly integrating it with the dashboard for efficient data management and retrieval.
 > - Predicted plant features and yields using deep learning and clustering techniques (k-Means, DBSCAN) and visualized results with Matplotlib, Seaborn, and raster heatmaps using QGIS and GeoPandas.  
 
 <br><br>
 <h2 style="color: gray;">Hackathons & Workshop Presentations</h2>
-<h3 style="margin-bottom: 2px;">🏅  TAMU Datathon AgriTech Challenge</h3>
+<h3 style="margin-bottom: 2px;">🏅  [TAMU Datathon AgriTech Challenge](https://tamu-datathon.devpost.com/)</h3>
 <h3 style="margin-bottom: 2px;">&emsp; (Cotton Field Detector, 2nd place)</h3>
 &emsp; &nbsp; *Nov 2024*  
 - Designed a CNN-based tool to identify cotton fields within 24 hours, using multi-spectral satellite imagery and weather data.</li>

@@ -42,7 +42,7 @@ title: Resume
 <h3 style="margin-bottom: 2px;">🏅  TAMU Datathon AgriTech Challenge</h3>
 <h3 style="margin-bottom: 2px;">&emsp; (Cotton Field Detector, 2nd place)</h3>
 &emsp; &nbsp; *Nov 2024*  
-<ul style="margin-top: 2px; padding-left: 20px;">
+<ul style="margin-top: 1px; padding-left: 20px;">
   <li>Designed a CNN-based tool to identify cotton fields within 24 hours, using multi-spectral satellite imagery and weather data.</li>
   <li>Achieved 83% accuracy and 76% F1 score.</li>
   <li>Presented the poster at the TAMU Beef Sustainability Summit 2024.</li>

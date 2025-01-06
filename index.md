@@ -39,14 +39,19 @@ title: Resume
 
 <br><br>
 <h2 style="color: gray;">Hackathons & Workshop Presentations</h2>
-<h3 style="margin-bottom: 2px;">🏅  [TAMU Datathon AgriTech Challenge](https://tamu-datathon.devpost.com/)</h3>
+<h3 style="margin-bottom: 2px;">
+    🏅 <a href="https://tamu-datathon.devpost.com/" target="_blank">TAMU Datathon AgriTech Challenge</a>
+</h3>
 <h3 style="margin-bottom: 2px;">&emsp; (Cotton Field Detector, 2nd place)</h3>
 &emsp; &nbsp; *Nov 2024*  
 - Designed a CNN-based tool to identify cotton fields within 24 hours, using multi-spectral satellite imagery and weather data.</li>
 - Achieved 83% accuracy and 76% F1 score.</li>
 - Presented the poster at the <ins>[TAMU Beef Sustainability Summit 2024](https://livestock-sustainability.com/summit/)</ins>.
 
-<h3 style="margin-bottom: 2px;">🏅  [MLCAS](https://2024.mlcas.site/) [Corn Yield Prediction Challenge](https://eval.ai/web/challenges/challenge-page/2332/overview) (4th place)</h3>
+<h3 style="margin-bottom: 2px;">
+    🏅 <a href="https://2024.mlcas.site/" target="_blank" style="text-decoration: underline;">MLCAS</a> 
+    <a href="https://eval.ai/web/challenges/challenge-page/2332/overview" target="_blank" style="text-decoration: underline;">Corn Yield Prediction Challenge</a> (4th place)
+</h3>
 &emsp; &nbsp; *Aug 2024*
 - Predicted corn yield using a multi-modal CNN model applied to satellite imagery, incorporating vegetation indices calculated from multiple image bands. (<ins>[github](https://github.com/deregina/Agriculture_competition)</ins>)
 

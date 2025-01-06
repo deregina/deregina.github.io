@@ -13,6 +13,7 @@ title: Resume
 
 ##   
 ## Projects
+### Analyzing classroom recordings using speech recognition and large language model (LLM) techniques
 ### Computer Science & Engineering Graduate Assistant  
 **Education & Human Development, Texas A&M University, College Station, Texas**  
 *Sep 2024 – Present*  

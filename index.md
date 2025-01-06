@@ -5,7 +5,11 @@ title: Resume
 <br>
 **📚 Master of Science in Data Science**           Aug 2023 – May 2025 
 [*Texas A&M University, College Station, Texas*](https://www.tamu.edu)  
+**CGPA**: 4.0 / 4.0  
 
+**Master of Science in Data Science**  
+<div style="text-align: right;">[*Texas A&M University, College Station, Texas*](https://www.tamu.edu)</div>  
+Aug 2023 – May 2025  
 **CGPA**: 4.0 / 4.0  
 
 **Bachelor of Chinese Culture, Bachelor of Political Science**  

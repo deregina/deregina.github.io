@@ -36,12 +36,10 @@ title: Resume
   
 >> Developed a Django-based dashboard to analyze cotton field data, integrating interactive visualizations with Folium and Plotly to deliver insights to farmers and agronomists. Designed and implemented a MySQL database structure, seamlessly integrating it with the dashboard for efficient data management and retrieval. Predicted plant features and yields using deep learning and clustering techniques (k-Means, DBSCAN) and visualized results with Matplotlib, Seaborn, and raster heatmaps using QGIS and GeoPandas.  
 
+<br><br>
 ## Hackathons & Workshop Presentations  
-<h2 style="margin-bottom: 0;">📚 Education</h2>
-### 🏅  TAMU Datathon AgriTech Challenge  
-
-
-(Cotton Field Detector, 2nd place)  
+<h3 style="margin-bottom: 0;">🏅  TAMU Datathon AgriTech Challenge</h3>
+<h3 style="margin-bottom: 0;">&emsp; (Cotton Field Detector, 2nd place)</h3>
 *Nov 2024*  
 - Designed and implemented a CNN-based tool to identify cotton fields within 24 hours, using multi-spectral satellite imagery and weather data.  
 - Achieved 83% accuracy and 76% F1 score in predicting cotton field presence.  
